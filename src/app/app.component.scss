@@ -1,0 +1,15 @@
+.table {
+    thead th {
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+  
+    tbody tr:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  
+    .btn {
+      margin-right: 5px;
+    }
+  }
+  
